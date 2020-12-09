@@ -1,2 +1,2 @@
 # tools
-My simple scripts and tools
+My simple scripts and 'tools'
